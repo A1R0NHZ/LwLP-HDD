@@ -44,6 +44,8 @@ This project pioneers **next-gen AI-driven heart monitoring**, enabling real-tim
 | Model 2  | 1.5 MB  | 91%         | 5K            |
 | Model 4  | 154 KB  | 96%         | 3.5M          |
 
+![image](https://github.com/user-attachments/assets/020ac04f-7065-4795-b3b4-d127ffd41228)
+
 ## 📌 Breakthrough Prediction Accuracy
 | **Sample ID** | **Model Name** | **Prediction Confidence** | **Predicted Class** | **Real Class** |
 |--------------|--------------|----------------------|----------------|-------------|
@@ -57,6 +59,8 @@ This project pioneers **next-gen AI-driven heart monitoring**, enabling real-tim
 | 008          | Model 3      | 92.6%                | Class D        | Class D     |
 | 009          | Model 6      | 96.4%                | Class A        | Class A     |
 | 010          | Model 2      | 88.7%                | Class B        | Class D     |
+
+![image](https://github.com/user-attachments/assets/08172caf-76bb-4212-b258-f578e134f1a5)
 
 ## 🧠 AI Model Comparisons
 Our model outperforms traditional heart monitoring systems, including **Apple Watch ECG, KardiaMobile, and hospital-grade ECGs** by:
