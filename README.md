@@ -82,7 +82,7 @@ Our models have been rigorously tested across multiple real-world datasets, prov
 5. **Works Anywhere**: No reliance on internet connectivity.
 
 ## 🎯 Attention-Grabbing Phrases
-- **"AI-Powered Heart Monitoring – No Doctor Required!"**
+- **"AI-Powered Heart Monitoring – No Doctor Required for Detecting!"**
 - **"Wearable AI That Predicts Heart Attacks in Seconds!"**
 - **"This Edge AI Can Save Your Life – Here’s How!"**
 
