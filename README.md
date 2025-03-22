@@ -62,8 +62,8 @@ This project pioneers **next-gen AI-driven heart monitoring**, enabling real-tim
 
 ![image](https://github.com/user-attachments/assets/08172caf-76bb-4212-b258-f578e134f1a5)
 
-## 🧠 AI Model Comparisons
-Our model outperforms traditional heart monitoring systems, including **Apple Watch ECG, KardiaMobile, and hospital-grade ECGs** by:
+## 🧠 AI Model
+Our model outperforms traditional heart monitoring systems by:
 - **Providing real-time, continuous monitoring** instead of intermittent checks.
 - **Offering superior accuracy in detecting arrhythmias** with minimal false positives.
 - **Running on low-power edge devices**, ensuring longer battery life and usability anywhere.
