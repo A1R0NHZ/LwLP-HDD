@@ -1,7 +1,4 @@
-# LwLP-HDD
-AI-powered real-time heart condition detection using Edge AI. Our models run on wearable devices and mobile phones, providing instant, privacy-first ECG analysis to detect arrhythmias and heart failure. Optimized for low power and high accuracy without relying on cloud connectivity
-
-# 🫀 Real-Time Heart Condition Detection using Edge AI
+#  Real-Time Heart Condition Detection using Edge AI
 
 ## Overview
 This project pioneers **next-gen AI-driven heart monitoring**, enabling real-time detection of cardiac conditions on **wearable devices and mobile phones**. Leveraging **Edge AI**, our models deliver lightning-fast, privacy-first diagnoses without relying on cloud connectivity.
